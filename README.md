@@ -1,8 +1,10 @@
 # Privacy Policy
 
-**Last Updated: March 17, 2026**
+**Last Updated: March 18, 2026**
 
 This Privacy Policy applies to Fitnut app and the related backend services used to operate the app.
+
+Contact email: progresoapp@163.com
 
 ## 1. Information We Collect
 

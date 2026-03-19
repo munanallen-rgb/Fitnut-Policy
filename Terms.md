@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: March 17, 2026**
+**Last Updated: March 19, 2026**
 
 These Terms of Service apply to the Fitnut app and the related backend services used to operate the app.
 

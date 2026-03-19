@@ -1,10 +1,8 @@
 # Privacy Policy
 
-**Last Updated: March 18, 2026**
+**Last Updated: March 19, 2026**
 
 This Privacy Policy applies to Fitnut app and the related backend services used to operate the app.
-
-Contact email: progresoapp@163.com
 
 ## 1. Information We Collect
 
@@ -155,11 +153,16 @@ You may also:
 
 - update certain profile and workout information inside the app;
 - stop using optional features, including AI features;
-- request account deletion or data deletion by contacting us at `progresoapp@163.com`.
+- request access to, correction of, or export of your data by contacting us at `progresoapp@163.com`;
+- request account deletion inside the iOS app from the Profile page.
 
 For security reasons, we may ask you to verify your identity before acting on a request.
 
-Please note that some information may need to be retained for legal, tax, accounting, fraud prevention, or dispute-resolution purposes even after a deletion request.
+When you delete your account, we delete core personal data used to provide the service, including profile data, workout logs, snapshots, feedback content, and related in-app records tied to your account.
+
+Please note that some payment, accounting, audit, fraud-prevention, legal-compliance, or dispute-resolution records may still need to be retained for an appropriate period even after a deletion request.
+
+If you subscribed through Apple, deleting your account does not automatically cancel your Apple subscription. You must manage cancellation from your Apple subscription settings.
 
 If you are in the EEA or UK, you may also have the right to lodge a complaint with your local data protection authority.
 

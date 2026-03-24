@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: March 19, 2026**
+**Last Updated: March 24, 2026**
 
 These Terms of Service apply to the Fitnut app and the related backend services used to operate the app.
 
@@ -164,11 +164,9 @@ If you downloaded the app from the Apple App Store, you acknowledge and agree th
 
 ## 14. Governing Law and Dispute Resolution
 
-These Terms are governed by the laws of `[Insert governing law]`, without regard to conflict of law rules.
+These Terms are governed by the laws of the People's Republic of China, without regard to conflict of law rules.
 
-Any dispute arising out of or relating to these Terms or the app will be resolved in the courts or dispute forum located in `[Insert jurisdiction or dispute venue]`, unless applicable law requires otherwise.
-
-If you are publishing as an individual developer, you should make sure this section matches your actual country, state, or residence-based legal setup before launch.
+Any dispute arising out of or relating to these Terms or the app will be submitted to the courts with competent jurisdiction in the place of the developer's domicile in the People's Republic of China, unless applicable law requires otherwise.
 
 ## 15. Changes to These Terms
 
@@ -178,4 +176,3 @@ We may update these Terms from time to time. If we make material changes, we may
 
 If you have questions about these Terms, contact us at:
 - Email: `progresoapp@163.com`
-
